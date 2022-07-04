@@ -1340,7 +1340,7 @@ header .mega-menu {
     justify-content: center;
     flex-direction: column;
     text-align: center;
-    background-image: url("/Images/discount-background1.jpg");
+    background-image: url("../Images/discount-background1.jpg");
     background-size: cover;
     color: #fff;
     z-index: 1;
@@ -1581,10 +1581,10 @@ footer .gallery img {
 
 @keyframes change-background-image {
     0%, 100% {
-       background-image: url("/Images/discount-background1.jpg");
+       background-image: url("../Images/discount-background1.jpg");
     }
     50% {
-        background-image: url("/Images/discount-background2.jpg");
+        background-image: url("../Images/discount-background2.jpg");
     }
 }
 /*--------------------end animations--------------------*/
