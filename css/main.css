@@ -1244,7 +1244,7 @@ header .mega-menu {
 /*--------------------start stats--------------------*/
 .stats {
     position: relative;
-    background-image: url("/Images/stats.jpg");
+    background-image: url("../Images/stats.jpg");
     background-size: cover;
 }
 
